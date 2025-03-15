@@ -40,7 +40,7 @@ I'm an Electrical Engineering student passionate about robotics, embedded system
 - 📡 **Wireless Control:** Bluetooth-controlled PID tuning for robots
 
 ## 📫 Let's Connect!
-- LinkedIn: [hassan-raza-256b7](#)
+- LinkedIn: [www.linkedin.com/in/hassan-raza-256b72328](#)
 - Email: [hr2706357@gmail.com](mailto:hr2706357@gmail.com)
 - GitHub: [github.com/Hr2003-coder](https://github.com/Hr2003-coder)
 
